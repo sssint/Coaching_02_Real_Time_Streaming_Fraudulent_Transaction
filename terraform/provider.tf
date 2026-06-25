@@ -10,4 +10,5 @@ terraform {
 provider "google" {
   project = var.project_id
   region  = var.region
+  credentials = file("my-project-sssint1-7e02e9078e06.json")
 }

@@ -61,3 +61,5 @@ data/*.csv
 # Old Files
 backup_old/
 *.joblib
+terraform/my-project-sssint1-7e02e9078e06.json
+terraform/terraform.exe
